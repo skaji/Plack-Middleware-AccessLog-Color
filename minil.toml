@@ -1,0 +1,6 @@
+name = "Plack-Middleware-AccessLog-Color"
+# badges = ["travis"]
+authority="cpan:SKAJI"
+
+module_maker="ModuleBuildTiny"
+
